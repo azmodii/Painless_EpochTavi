@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Taviana Launcher.exe" size="101376">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Taviana Launcher.exe" size="102912">
       <assemblyIdentity name="Taviana Launcher" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>af/0h7D7+D88hmh3mH4z6du01d8=</dsig:DigestValue>
+        <dsig:DigestValue>nNShwjEqsC2J4LEJ8u3na70gsT8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

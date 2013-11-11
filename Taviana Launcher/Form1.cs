@@ -84,6 +84,8 @@ namespace Taviana_Launcher
         {
             string main = ARMAPath("main");
             string exp = ARMAPath("exp");
+            string _2main = ARMAPath("arma2main");
+            string _2exp = ARMAPath("arma2exp");
 
             string errorList = "";
 
@@ -95,7 +97,23 @@ namespace Taviana_Launcher
             {
                 errorList = errorList + " | ARMA 2 OA Expansion Key cannot be found!"; 
             }
+            if (_2main == "")
+            {
+                errorList = errorList + " | ARMA 2 Main Key cannot be found!";
+            }
+            if (_2exp == "")
+            {
+                errorList = errorList + " | ARMA 2 Expansion Key cannot be found!";
+            }
             errors = errorList;
+            if (errorList == "")
+            {
+
+            }
+            else
+            {
+                hasError = true;
+            }
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
@@ -107,10 +125,15 @@ namespace Taviana_Launcher
         {
             if (button_Action.Text == "Launch Taviana Epoch!")
             {
-                args = "-skipIntro -mod=@taviana -noSplash -noFilePatching -world=empty -connect=103.18.206.95 -port=2322 \"-mod=" + ARMAPath("arma2main") + ";expansion;expansion\\beta;expansion\\beta\\expansion;@DayZ_Epoch\"";
+                args = "-skipIntro -mod=@taviana -noSplash -noFilePatching -world=empty -connect=103.18.206.95 -port=2322 \"-mod=" + ARMAPath("arma2path") + ";expansion;expansion\\beta;expansion\\beta\\expansion;@DayZ_Epoch\"";
                 string full = ARMAPath("exp") + "\\beta\\" + "arma2oa.exe" + args;
                 Debug.Print(full);
                 Process.Start(ARMAPath("exp") + "\\beta\\" + "arma2oa.exe", args);
+            }
+
+            if (button_Action.Text == "Solve it!")
+            {
+                
             }
         }
 
