@@ -34,3 +34,15 @@ C:\Users\Programming\AppData\Local\Temporary Projects\Taviana Launcher\obj\x86\D
 \\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\GenerateResource.write.1.tlog
 \\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana Launcher.exe.manifest
 \\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana Launcher.application
+E:\Github\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana Launcher.exe
+E:\Github\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana Launcher.pdb
+E:\Github\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana_Launcher.Form1.resources
+E:\Github\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana_Launcher.Form2.resources
+E:\Github\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana_Launcher.Properties.Resources.resources
+E:\Github\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana Launcher.csproj.GenerateResource.Cache
+E:\Github\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana Launcher.exe.manifest
+E:\Github\Painless_EpochTavi\Taviana Launcher\bin\Debug\Taviana Launcher.exe.manifest
+E:\Github\Painless_EpochTavi\Taviana Launcher\bin\Debug\Taviana Launcher.application
+E:\Github\Painless_EpochTavi\Taviana Launcher\bin\Debug\Taviana Launcher.exe
+E:\Github\Painless_EpochTavi\Taviana Launcher\bin\Debug\Taviana Launcher.pdb
+E:\Github\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana Launcher.application

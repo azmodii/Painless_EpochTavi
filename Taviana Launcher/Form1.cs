@@ -125,10 +125,16 @@ namespace Taviana_Launcher
         {
             if (button_Action.Text == "Launch Taviana Epoch!")
             {
-                args = "-skipIntro -mod=@taviana -noSplash -noFilePatching -world=empty -connect=103.18.206.95 -port=2322 \"-mod=" + ARMAPath("arma2path") + ";expansion;expansion\\beta;expansion\\beta\\expansion;@DayZ_Epoch\"";
-                string full = ARMAPath("exp") + "\\beta\\" + "arma2oa.exe" + args;
-                Debug.Print(full);
-                Process.Start(ARMAPath("exp") + "\\beta\\" + "arma2oa.exe", args);
+                args = "-skipIntro -mod=@Taviana -noSplash -noFilePatching -world=empty -connect=103.18.206.95" + 
+                    "-port=2322 \"-mod=" + ARMAPath("arma2path") + 
+                    ";expansion;expansion\\beta;expansion\\beta\\expansion;@DayZ_Epoch\"" ;
+                ProcessStartInfo proc = new ProcessStartInfo();
+                proc.UseShellExecute = true;
+                proc.Verb = "runas";
+                proc.WorkingDirectory = ARMAPath("path");
+                proc.FileName = ARMAPath("exp") + "\\beta\\" + "arma2oa.exe";
+                proc.Arguments = args;
+                Process.Start(proc);
             }
 
             if (button_Action.Text == "Solve it!")
