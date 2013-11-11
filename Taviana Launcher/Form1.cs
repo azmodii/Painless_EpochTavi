@@ -107,7 +107,7 @@ namespace Taviana_Launcher
         {
             if (button_Action.Text == "Launch Taviana Epoch!")
             {
-                args = "-skipIntro -mod=@taviana -noSplash -noFilePatching -world=empty -connect=103.18.206.95 -port=2322 -mod=" + ARMAPath("arma2main") + ";expansion;expansion\\beta;expansion\\beta\\expansion;@DayZ_Epoch";
+                args = "-skipIntro -mod=@taviana -noSplash -noFilePatching -world=empty -connect=103.18.206.95 -port=2322 \"-mod=" + ARMAPath("arma2main") + ";expansion;expansion\\beta;expansion\\beta\\expansion;@DayZ_Epoch\"";
                 string full = ARMAPath("exp") + "\\beta\\" + "arma2oa.exe" + args;
                 Debug.Print(full);
                 Process.Start(ARMAPath("exp") + "\\beta\\" + "arma2oa.exe", args);
