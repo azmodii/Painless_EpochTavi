@@ -1,0 +1,24 @@
+C:\Users\Programming\AppData\Local\Temporary Projects\Taviana Launcher\bin\Debug\Taviana Launcher.exe
+C:\Users\Programming\AppData\Local\Temporary Projects\Taviana Launcher\bin\Debug\Taviana Launcher.pdb
+C:\Users\Programming\AppData\Local\Temporary Projects\Taviana Launcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programming\AppData\Local\Temporary Projects\Taviana Launcher\obj\x86\Debug\Taviana_Launcher.Form1.resources
+C:\Users\Programming\AppData\Local\Temporary Projects\Taviana Launcher\obj\x86\Debug\Taviana_Launcher.Properties.Resources.resources
+C:\Users\Programming\AppData\Local\Temporary Projects\Taviana Launcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Programming\AppData\Local\Temporary Projects\Taviana Launcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Programming\AppData\Local\Temporary Projects\Taviana Launcher\obj\x86\Debug\Taviana Launcher.exe
+C:\Users\Programming\AppData\Local\Temporary Projects\Taviana Launcher\obj\x86\Debug\Taviana Launcher.pdb
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Debug\Taviana Launcher.exe
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Debug\Taviana Launcher.pdb
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Debug\Taviana_Launcher.Form1.resources
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Debug\Taviana_Launcher.Properties.Resources.resources
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Debug\GenerateResource.read.1.tlog
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Debug\GenerateResource.write.1.tlog
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\bin\Debug\Taviana Launcher.exe
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\bin\Debug\Taviana Launcher.pdb
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\bin\Debug\Taviana Launcher.exe.manifest
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\bin\Debug\Taviana Launcher.application
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Debug\Taviana Launcher.exe.manifest
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Debug\Taviana Launcher.application
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana Launcher.exe
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Debug\Taviana Launcher.pdb

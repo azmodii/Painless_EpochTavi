@@ -1,0 +1,26 @@
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\bin\Release\Taviana Launcher.exe
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\bin\Release\Taviana Launcher.pdb
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Release\ResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Release\Taviana_Launcher.Form1.resources
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Release\Taviana_Launcher.Properties.Resources.resources
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Release\GenerateResource.read.1.tlog
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Release\GenerateResource.write.1.tlog
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Release\Taviana Launcher.exe
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Release\Taviana Launcher.pdb
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\bin\Release\Taviana Launcher.exe.manifest
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\bin\Release\Taviana Launcher.application
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Release\Taviana Launcher.exe.manifest
+\\psf\home\documents\visual studio 2010\Projects\Taviana Launcher\Taviana Launcher\obj\x86\Release\Taviana Launcher.application
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\bin\Release\Taviana Launcher.exe.manifest
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\bin\Release\Taviana Launcher.application
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\bin\Release\Taviana Launcher.exe
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\bin\Release\Taviana Launcher.pdb
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Release\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Release\Taviana_Launcher.Form1.resources
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Release\Taviana_Launcher.Properties.Resources.resources
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Release\GenerateResource.read.1.tlog
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Release\GenerateResource.write.1.tlog
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Release\Taviana Launcher.exe.manifest
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Release\Taviana Launcher.application
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Release\Taviana Launcher.exe
+\\psf\Home\Desktop\Gits\Painless_EpochTavi\Taviana Launcher\obj\x86\Release\Taviana Launcher.pdb
